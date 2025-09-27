@@ -8,7 +8,7 @@
 
 int main(int argc, char *argv[]) {
 	if (argc != 2) {
-		printf("Usage: ./file\n");
+		printf("Usage: file_info <file>\n");
 		return 1;
 	}
 
